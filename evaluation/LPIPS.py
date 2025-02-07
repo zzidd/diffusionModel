@@ -3,8 +3,6 @@ import random
 import lpips
 import torch
 from tqdm.autonotebook import tqdm
-import sys
-sys.path.append('/kaggle/working/diffusionModel')
 
 loss_fn = lpips.LPIPS(net='alex', version='0.1').to(torch.device('cuda:0'))
 

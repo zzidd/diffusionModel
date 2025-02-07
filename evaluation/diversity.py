@@ -3,8 +3,6 @@ from PIL import Image
 import torch
 import torchvision.transforms as transforms
 from tqdm.autonotebook import tqdm
-import sys
-sys.path.append('/kaggle/working/diffusionModel')
 
 
 def calc_diversity(data_dir, num_samples=5):

@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/kaggle/working/diffusionModel')
 import random
 from pathlib import Path
 import torch

@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/kaggle/working/diffusionModel')
 from torch.utils.data import Dataset
 import torchvision.transforms as transforms
 from PIL import Image
