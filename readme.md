@@ -3,7 +3,7 @@
 #### [BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models](https://arxiv.org/abs/2205.07680)
 https://arxiv.org/abs/2205.07680
 
-**Bo Li, Kai-Tao Xue, Bin Liu, Yu-Kun Lai**
+**Siddesh, Akshay, Arun**
 
 ![img](resources/BBDM_architecture.png)
 
