@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/kaggle/working/diffusionModel')
 import os
 import torch
 import torch.nn as nn

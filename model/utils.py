@@ -1,4 +1,6 @@
 from inspect import isfunction
+import sys
+sys.path.append('/kaggle/working/diffusionModel')
 
 
 def extract(a, t, x_shape):

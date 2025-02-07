@@ -1,5 +1,6 @@
 import os
-
+import sys
+sys.path.append('/kaggle/working/diffusionModel')
 
 def get_image_paths_from_dir(fdir):
     flist = os.listdir(fdir)
